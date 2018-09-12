@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aufgabe Liste</string>
+    <string name="action_settings">Einstellung</string>
+
+    <!-- Actividades -->
+    <string name="title_activity_update">Aufgabe bearbeiten</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_insert">Aufgabe einfügen</string>
+
+    <!-- Action Buttons -->
+    <string name="action_delete">Löschen</string>
+    <string name="action_discard">Änderung verwerfen</string>
+    <string name="action_edit">Bearbeiten</string>
+    <string name="action_done">Speichern</string>
+
+    <!-- Categorías -->
+    <string-array name="entradas_categoria">
+        <item>Gesundheit</item>
+        <item>Finanzen</item>
+        <item>Freizeit</item>
+        <item>Professional</item>
+        <item>Material</item>
+    </string-array>
+
+    <!-- Prioridades -->
+    <string-array name="entradas_prioridad">
+        <item>Hoch</item>
+        <item>Mittel</item>
+        <item>Niedrig</item>
+    </string-array>
+
+    <!-- Diálogos -->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_discard_msg">verwerfen Änderung?</string>
+    <string name="dialog_cancel">Stornieren</string>
+    <string name="dialog_delete_msg">Die Aufgabe werde Löschen</string>
+
+    <string name="title">Titel</string>
+    <string name="category">Kategorie</string>
+    <string name="date">Datum</string>
+    <string name="priority">Priortät</string>
+    <string name="description">Beschreibung</string>
+    <string name="dateLimit">Ablauffrist</string>
+    <string name="dateExample">2016/12/13</string>
+
+    <string name="dataEntry">füllen die Lücken</string>
+
+    <string name="dataDeleted">Aufgabe gelöscht</string>
+    <string name="dataNotDeleted">Fehler beim Aufgabe Löschen</string>
+    <string name="updateOK">Aufgabe aktualisiert</string>
+    <string name="updateNOK">Fehler beim Aufgabe aktualisiert</string>
+    <string name="noData">Keine Daten erhalten</string>
+    <string name="noID">Wir brauchen eine Kennzeichnung</string>
+    <string name="newData">Neue Aufgabe erstellt</string>
+    <string name="failData">Fehler beim eine neue Aufgabe erstellt</string>
+    <string name="serverError">Server Fehler</string>
+
+    <string name="Salud">Gesundheit</string>
+    <string name="Finanzas">Finanzen</string>
+    <string name="Ocio">Freizeit</string>
+    <string name="Profesional">Professional</string>
+    <string name="Material">Material</string>
+
+    <string name="Alta">Hoch</string>
+    <string name="Media">Mittel</string>
+    <string name="Baja">Niedrig</string>
+
+</resources>

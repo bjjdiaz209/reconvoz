@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0c25b1</color>
+    <color name="accent">#da2134</color>
+    <color name="ripple">#57ea18</color>
+    <color name="tertiary">#455561</color>
+    <color name="background">#FFFFFF</color>
+    <color name="textColorPrimary">#323232</color>
+    <color name="textColorSecondary">#434343</color>
+    <color name="transparent_actionbar_background">#24000000</color>
+
+    <!-- MINI FAB
+    <color name="colorNormalMini">#00B0FF</color>
+    <color name="colorPressedMini">#40C4FF</color>
+    <color name="colorRippleMini">#E1F5FE</color>-->
+
+    <!-- BACKGROUND DETAIL -->
+    <color name="saludColor">#06fa13</color>
+    <color name="finanzasColor">#f9c90c</color>
+    <color name="ocioColor">#8c03f5</color>
+    <color name="profesionalColor">#EC6B56</color>
+    <color name="materialColor">#e45be0</color>
+</resources>

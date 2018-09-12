@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Tasks List</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Actividades -->
+    <string name="title_activity_update">Edit Task</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_insert">Insert new Task</string>
+
+    <!-- Action Buttons -->
+    <string name="action_delete">Delete</string>
+    <string name="action_discard">Discard Changes</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_done">Save</string>
+
+    <!-- Categorías -->
+    <string-array name="entradas_categoria">
+        <item>Helth</item>
+        <item>Finances</item>
+        <item>Leisure</item>
+        <item>Professional</item>
+        <item>Material</item>
+    </string-array>
+
+    <!-- Prioridades -->
+    <string-array name="entradas_prioridad">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+    <!-- Diálogos -->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_discard_msg">Discard Changes?</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_delete_msg">The Task will be deleted</string>
+
+    <string name="title">Title</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="priority">Priority</string>
+    <string name="description">Description</string>
+    <string name="dateLimit">Limit Date</string>
+    <string name="dateExample">2016/12/13</string>
+
+    <string name="dataEntry">Fill the gaps</string>
+
+    <string name="dataDeleted">Task Deleted</string>
+    <string name="dataNotDeleted">Failure to delete Task</string>
+    <string name="updateOK">Task updated</string>
+    <string name="updateNOK">Failure tu update the task</string>
+    <string name="noData">No data received</string>
+    <string name="noID">We will need an identificator</string>
+    <string name="newData">New Task created</string>
+    <string name="failData">Failure ti create a Task</string>
+    <string name="serverError">Server Failure</string>
+
+    <string name="Salud">Health</string>
+    <string name="Finanzas">Finances</string>
+    <string name="Ocio">Leisure</string>
+    <string name="Profesional">Professional</string>
+    <string name="Material">Material</string>
+
+    <string name="Alta">High</string>
+    <string name="Media">Medium</string>
+    <string name="Baja">Low</string>
+
+</resources>

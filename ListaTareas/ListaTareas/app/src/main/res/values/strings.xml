@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Lista Tareas</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Actividades -->
+    <string name="title_activity_update">Editar Meta</string>
+    <string name="title_activity_detail">Detalle</string>
+    <string name="title_activity_insert">Insertar Nueva Meta</string>
+
+    <!-- Action Buttons -->
+    <string name="action_delete">Eliminar</string>
+    <string name="action_discard">Descartar Cambios</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_done">Guardar</string>
+
+    <!-- Categorías -->
+    <string-array name="entradas_categoria">
+        <item>Salud</item>
+        <item>Finanzas</item>
+        <item>Ocio</item>
+        <item>Profesional</item>
+        <item>Material</item>
+    </string-array>
+
+    <!-- Prioridades -->
+    <string-array name="entradas_prioridad">
+        <item>Alta</item>
+        <item>Media</item>
+        <item>Baja</item>
+    </string-array>
+
+    <!-- Diálogos -->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_discard_msg">¿Descartar Cambios?</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_delete_msg">Se eliminará la meta</string>
+
+    <string name="title">Título</string>
+    <string name="category">Categoría</string>
+    <string name="date">Fecha</string>
+    <string name="priority">Prioridad</string>
+    <string name="description">Descripción</string>
+    <string name="dateLimit">Fecha Límite</string>
+    <string name="dateExample">2016/12/13</string>
+
+    <string name="dataEntry">Completa los campos</string>
+
+    <string name="dataDeleted">Tarea Eliminada</string>
+    <string name="dataNotDeleted">Fallo al eliminar la tarea</string>
+    <string name="updateOK">Tarea Actualizada</string>
+    <string name="updateNOK">Fallo en la actualización de la tarea</string>
+    <string name="noData">No se obtuvieron los datos</string>
+    <string name="noID">Se necesita un identificador</string>
+    <string name="newData">Nueva tarea creada</string>
+    <string name="failData">Fallo al crear la tarea</string>
+    <string name="serverError">Error en el servidor</string>
+
+    <string name="Salud">Salud</string>
+    <string name="Finanzas">Finanzas</string>
+    <string name="Ocio">Ocio</string>
+    <string name="Profesional">Profesional</string>
+    <string name="Material">Material</string>
+
+    <string name="Alta">Alta</string>
+    <string name="Media">Media</string>
+    <string name="Baja">Baja</string>
+
+</resources>

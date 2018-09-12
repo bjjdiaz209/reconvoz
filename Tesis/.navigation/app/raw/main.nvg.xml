@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.Pedido"/>
+      <point      
+        x = "2720"      
+        y = "0"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.Acerca"/>
+      <point      
+        x = "158"      
+        y = "2213"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.AdapterList2"/>
+      <point      
+        x = "550"      
+        y = "12570"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.Carrilto"/>
+      <point      
+        x = "500"      
+        y = "12520"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.ListadoPedido"/>
+      <point      
+        x = "5920"      
+        y = "0"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.ControlMenu"/>
+      <point      
+        x = "159"      
+        y = "5751"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.RegistroSms"/>
+      <point      
+        x = "159"      
+        y = "3513"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.administrador"/>
+      <point      
+        x = "1440"      
+        y = "3200"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "menu_categorias"/>
+      <point      
+        x = "2402"      
+        y = "2074"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.controlPlatos"/>
+      <point      
+        x = "2080"      
+        y = "5760"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "menu_control_menu"/>
+      <point      
+        x = "927"      
+        y = "9740"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.categorias"/>
+      <point      
+        x = "2628"      
+        y = "1546"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "menu_administrador"/>
+      <point      
+        x = "927"      
+        y = "4329"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.CustomAdapterList2"/>
+      <point      
+        x = "500"      
+        y = "12520"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "menu_notas"/>
+      <point      
+        x = "2628"      
+        y = "1700"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.mariscos"/>
+      <point      
+        x = "4000"      
+        y = "2080"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "menu_main"/>
+      <point      
+        x = "1206"      
+        y = "210"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.porciones"/>
+      <point      
+        x = "4960"      
+        y = "320"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "menu_acerca"/>
+      <point      
+        x = "1417"      
+        y = "2213"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.Carrito"/>
+      <point      
+        x = "1280"      
+        y = "1600"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.parrillada"/>
+      <point      
+        x = "4960"      
+        y = "1760"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.principal"/>
+      <point      
+        x = "480"      
+        y = "160"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        xmlResourceName = "menu_control_platos"/>
+      <point      
+        x = "1887"      
+        y = "10049"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.Notas"/>
+      <point      
+        x = "1760"      
+        y = "0"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.ListadoFinal"/>
+      <point      
+        x = "500"      
+        y = "12520"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.toshiba.tesisparte1.bebidas"/>
+      <point      
+        x = "4000"      
+        y = "640"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
